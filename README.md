@@ -1,2 +1,2 @@
-# Mochi
-This is mochi with time system. Your personal Desk Buddy.
+# Luna
+This is Luna with time system. Your personal Desk Buddy.
