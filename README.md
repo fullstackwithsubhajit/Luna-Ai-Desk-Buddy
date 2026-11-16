@@ -115,6 +115,10 @@ Install the ESP32 board support package and these libraries through the
 Arduino IDE Library Manager (or the equivalent package manager in your
 chosen Arduino workflow).
 
+## Circuit Diagram
+<img width="819" height="539" alt="image" src="https://github.com/user-attachments/assets/b1fb8b30-0c14-4783-962d-983fc5b6fb99" />
+
+
 ## Getting started
 
 1.  Assemble the ESP32-C3, OLED, RTC, and button using the pin table
