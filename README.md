@@ -1,4 +1,4 @@
-# Luna --- DIY OLED Desk Companion
+# Luna (DIY OLED Desk Companion)
 
 **Luna** is a customizable, ESP32-C3-powered OLED desk companion created
 by **DevWithSubh**. It brings a little personality to a desk through
